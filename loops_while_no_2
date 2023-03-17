@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# input from the word
+# Promoting the user to enter the word
 word = input("Enter a word: ").lower()
 
 # input from the vowels
